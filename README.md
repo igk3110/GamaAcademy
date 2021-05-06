@@ -113,7 +113,7 @@
 
 • Término: 21/05/2021
 
-## Sprint Planning 01 - Funcionalidades eCommerce
+## Sprint Planning 02 - Funcionalidades eCommerce.
 
 ### Atividade  01.1 - Características, seu código, descrição, preço, quantidade em Estoque, se ele está disponível para comercialização e se ele está em destaque no portal da loja virtual:
 
